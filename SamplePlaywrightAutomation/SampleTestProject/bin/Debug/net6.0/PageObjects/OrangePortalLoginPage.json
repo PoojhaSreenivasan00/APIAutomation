@@ -1,0 +1,6 @@
+{
+  "LoginUsername": "//input[@name='username' and @placeholder='Username']",
+  "LoginPassword": "//input[@name='password' and @placeholder='Password']",
+  "LoginSubmit": "//button[contains(@class, 'orangehrm-login-button') and @type='submit']",
+  "DashboardNavigation": "//li[@class='oxd-userdropdown']"
+}

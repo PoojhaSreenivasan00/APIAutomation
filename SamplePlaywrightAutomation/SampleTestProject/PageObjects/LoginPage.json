@@ -1,0 +1,6 @@
+{
+  "LoginUsername": "#username",
+  "LoginPassword": "#password",
+  "LoginSubmit": "#submit",
+  "LogOut": "//a[text()='Log out']"
+}
