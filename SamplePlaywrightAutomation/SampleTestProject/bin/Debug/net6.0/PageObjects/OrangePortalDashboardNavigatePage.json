@@ -1,0 +1,17 @@
+{
+  "PIMTab": "//span[text()='PIM']",
+  "AddEmployeeDetailButton": "//button[@class='oxd-button oxd-button--medium oxd-button--secondary']",
+  "FirstName": "//input[@name='firstName' and @placeholder='First Name']",
+  "MiddleName": "//input[@name='middleName' and @placeholder='Middle Name']",
+  "LastName": "//input[@name='lastName' and @placeholder='Last Name']",
+  "Image": "//input[@type='file' and contains(@class, 'oxd-file-input')]",
+  "AddEmployeeSaveButton": "//button[@type='submit' and text()=' Save ']",
+  "AddEmployeeSaveNavigation": "//div[@class='orangehrm-edit-employee-name']",
+  "SearchEmployeeName": "//*[@id='app']/div[1]/div[2]/div[2]/div/div[1]/div[2]/form/div[1]/div/div[1]/div/div[2]/div/div/input",
+  "SearchButton": "//button[@type='submit' and text()=' Search ']",
+  "DisplayEmployeeFirstName": "(//div[@class='oxd-table-cell oxd-padding-cell' and @role='cell'])[3]/div",
+  "DisplayEmployeeLastName": "(//div[@class='oxd-table-cell oxd-padding-cell' and @role='cell'])[4]/div",
+  "DeleteButton": "//button[contains(@class, 'oxd-table-cell-action-space') and .//i[contains(@class, 'bi-trash')]]",
+  "ConfirmDeleteButton": "//button[text()=' Yes, Delete ']",
+  "EmployeeNotFoundToast": "#oxd-toaster_1"
+}

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<data name="password">admin123</data>
+	<data name="username">Admin</data>
+	<data name="startupurl">https://opensource-demo.orangehrmlive.com/web/index.php/auth/login</data>
+	<data name="firstname">Jayasri</data>
+	<data name="middlename">Ravi</data>
+	<data name="lastname">S</data>
+	<data name="filePath">C:\Users\spoojha\Pictures\halloween.jpg</data>
+</root>

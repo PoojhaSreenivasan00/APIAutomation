@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <data name="password" encrypt="true">UGFzc3dvcmQxMjM=</data>
+  <data name="username">student</data>
+  <data name="startupurl">https://practicetestautomation.com/practice-test-login/</data>
+</root>
