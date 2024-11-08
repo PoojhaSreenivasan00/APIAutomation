@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <Playwright>
+    <BrowserName>chromium</BrowserName>
+    <LaunchOptions>
+      <Headless>false</Headless>
+    </LaunchOptions>
+  </Playwright>
+  <RunConfiguration>
+    <EnvironmentVariables>
+      <DEBUG>pw:api</DEBUG>
+    </EnvironmentVariables>
+  </RunConfiguration>
+  <TestRunParameters>
+    <Parameter name="videomode" value="on" />
+    <Parameter name="tracemode" value="on" />
+    <Parameter name="retrytimes" value="1" />
+    <Parameter name="retrydelay" value="3000" />
+    <Parameter name="environment" value=""/>
+    <Parameter name="browser" value="chrome" />
+    <Parameter name="appcategory" value="crm" />
+  </TestRunParameters>
+</RunSettings>
